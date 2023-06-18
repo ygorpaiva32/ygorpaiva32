@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygorpaiva32&label=Profile%20views&color=0e75b6&style=flat" alt="ygorpaiva32" /> </p>
 
-- 🌱 I’m currently learning **React , nodeJs**
-
-- 📫 How to reach me **Ygor.corinthiano10@hotmail.com**
-
-- Fun Fact **dedicado**
+<h5>Eu sou uma pessoa motivada, intensamente dedicada a enfrentar novos desafios e aprender constantemente. Estou sempre pronto para produzir resultados de qualidade , com uma mentalidade voltada para o crescimento e sempre positiva. Estou comprometido a contribuir e a alcançar grandes resultados.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
